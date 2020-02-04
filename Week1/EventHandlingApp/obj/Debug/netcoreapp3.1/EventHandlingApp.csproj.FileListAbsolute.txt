@@ -1,0 +1,11 @@
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\bin\Debug\netcoreapp3.1\EventHandlingApp.exe
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\bin\Debug\netcoreapp3.1\EventHandlingApp.deps.json
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\bin\Debug\netcoreapp3.1\EventHandlingApp.runtimeconfig.json
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\bin\Debug\netcoreapp3.1\EventHandlingApp.runtimeconfig.dev.json
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\bin\Debug\netcoreapp3.1\EventHandlingApp.dll
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\bin\Debug\netcoreapp3.1\EventHandlingApp.pdb
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\obj\Debug\netcoreapp3.1\EventHandlingApp.csprojAssemblyReference.cache
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\obj\Debug\netcoreapp3.1\EventHandlingApp.AssemblyInfoInputs.cache
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\obj\Debug\netcoreapp3.1\EventHandlingApp.AssemblyInfo.cs
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\obj\Debug\netcoreapp3.1\EventHandlingApp.dll
+C:\Code\483 Huiswerk\AdditionApp\EventHandlingApp\obj\Debug\netcoreapp3.1\EventHandlingApp.pdb

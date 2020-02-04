@@ -1,0 +1,11 @@
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\bin\Debug\netcoreapp3.1\AdditionApp.exe
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\bin\Debug\netcoreapp3.1\AdditionApp.deps.json
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\bin\Debug\netcoreapp3.1\AdditionApp.runtimeconfig.json
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\bin\Debug\netcoreapp3.1\AdditionApp.runtimeconfig.dev.json
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\bin\Debug\netcoreapp3.1\AdditionApp.dll
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\bin\Debug\netcoreapp3.1\AdditionApp.pdb
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\obj\Debug\netcoreapp3.1\AdditionApp.csprojAssemblyReference.cache
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\obj\Debug\netcoreapp3.1\AdditionApp.AssemblyInfoInputs.cache
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\obj\Debug\netcoreapp3.1\AdditionApp.AssemblyInfo.cs
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\obj\Debug\netcoreapp3.1\AdditionApp.dll
+C:\Code\483 Huiswerk\AdditionApp\AdditionApp\obj\Debug\netcoreapp3.1\AdditionApp.pdb
